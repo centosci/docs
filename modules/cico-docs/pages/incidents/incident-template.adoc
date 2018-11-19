@@ -1,0 +1,29 @@
+Template for Incident Reports
+-----------------------------
+
+YYYY-MM-DD: Something Happened
+------------------------------
+
+Summary
+-------
+
+A short paragraph about what exactly happened
+
+Timeline
+--------
+
+All times in UTC
+
+yyyy-mm-dd hh:mm - Another event happened
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Extra description about the event if needed
+
+yyyy-mm-dd hh:mm - An event happened
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Extra description about the event if needed
+
+Action Items
+------------
+
+- Item 1 [link to wherever the issue is tracked]
+- Item 2

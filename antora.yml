@@ -1,0 +1,7 @@
+---
+name: centos
+title: CentOS CI Admin Guide
+version: master
+start_page: install-guide:index
+nav:
+    - modules/cico-docs/nav.adoc
