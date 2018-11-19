@@ -4,4 +4,4 @@ title: CentOS CI Admin Guide
 version: master
 start_page: cico-docs:index
 nav:
-    - modules/cico-docs/nav.adoc
+- modules/cico-docs/nav.adoc
