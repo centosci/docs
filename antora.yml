@@ -2,6 +2,6 @@
 name: centos
 title: CentOS CI Admin Guide
 version: master
-start_page: install-guide:index
+start_page: cico-docs:index
 nav:
     - modules/cico-docs/nav.adoc
