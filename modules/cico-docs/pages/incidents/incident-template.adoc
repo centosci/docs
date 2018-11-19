@@ -13,6 +13,7 @@ Timeline
 --------
 
 All times in UTC
+~~~~~~~~~~~~~~~~
 
 yyyy-mm-dd hh:mm - Another event happened
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
